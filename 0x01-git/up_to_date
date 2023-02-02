@@ -1,1 +1,1 @@
-git reset --hard origin/main
+echo git reset --hard origin/main >> up_to_date
